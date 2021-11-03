@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(189, 189, 189);
+    margin: 0;
+    padding: 100px;
+}
+.foto_perfil{
+    width: 15em;
+    height: 15em;
+    background: url(assets/imagens/foto_perfil.jpeg) center/cover;
+    padding: auto;
+    margin: auto;
+    border-radius: 100%;
+}
+.box{
+    width: 50%;
+    height: auto;
+    border-radius: 25px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 10em;
+}
+#nome{
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.descricao{
+    font-size: 1.5em;
+    color: black;
+    text-align: justify;
+    padding: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+}
+#lista{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    padding: 2em;
+    padding-top: 0;
+    line-height: 1.5em;
+}
+.texto{
+    margin: 1em;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+.contatos{
+    text-align: center;
+    margin-bottom: 0%;
+}
+#gmail{
+    width: 4em;
+    margin: 5px;
+    margin-right: 150px;
+} 
+#insta{
+    width: 4em;
+    margin: 5px;
+    margin-right: 150px;
+}
+#github{
+    width: 4em;
+    margin: 5px;
+    margin-right: 150px;
+}
